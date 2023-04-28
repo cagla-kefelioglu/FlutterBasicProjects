@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1058934697160",
+    "project_id": "firabaseblog-5d28e",
+    "storage_bucket": "firabaseblog-5d28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058934697160:android:5bdb97057841ac753d89fd",
+        "android_client_info": {
+          "package_name": "com.example.firebaseblogg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058934697160-ir62gb6pqa0v99ssj9ev2gtlamthegs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1ggR1QyIR7NqvJ14N9lFxBx6KzUJ70o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058934697160-ir62gb6pqa0v99ssj9ev2gtlamthegs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058934697160:android:b3d75116a0b2cec43d89fd",
+        "android_client_info": {
+          "package_name": "com.example.hesapmakinesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058934697160-ir62gb6pqa0v99ssj9ev2gtlamthegs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw1ggR1QyIR7NqvJ14N9lFxBx6KzUJ70o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058934697160-ir62gb6pqa0v99ssj9ev2gtlamthegs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
